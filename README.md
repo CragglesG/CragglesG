@@ -8,7 +8,7 @@ I'm Craig, a passionate coder making cool stuff!
 
 <br>
 
-[![CragglesG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CragglesG)](https://github.com/anuraghazra/github-readme-stats)
+[![CragglesG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CragglesG&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
