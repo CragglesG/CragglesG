@@ -10,7 +10,7 @@ I'm Craig, a passionate coder making cool stuff!
 
 ![CragglesG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CragglesG&show_icons=true&theme=transparent)
 
-![CragglesG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CragglesG)
+![CragglesG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CragglesG&theme=transparent)
 <br>
 
 _P.S: I know, the stats aren't very impressive_
