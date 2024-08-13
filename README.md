@@ -2,7 +2,9 @@
 
 I'm Craig, a passionate coder making cool stuff!
 
-🔭 I'm currently working on [The Barking Dog](https://github.com/CragglesG/the-barking-dog)
+🔭 I'm currently working on [ScriptMaker](https://github.com/CragglesG/ScriptMaker)
+
+🌱 I'm currently learning Rust
 
 ⏰ I'm participating in [Hack Club Arcade](https://hackclub.com/arcade/)
 
