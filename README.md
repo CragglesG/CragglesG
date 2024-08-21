@@ -2,9 +2,9 @@
 
 I'm Craig, a passionate coder making cool stuff!
 
-🔭 I'm currently working on [KnowledgeGraphed](https://github.com/CragglesG/KnowledgeGraphed)
+🔭 I'm currently working on [ScriptMaker](https://github.com/CragglesG/ScriptMaker)
 
-🌱 I'm currently learning about [NetworkX](https://networkx.org)
+🌱 I'm currently learning [Rust](https://rust-lang.org)
 
 ⏰ I'm participating in [Hack Club Arcade](https://hackclub.com/arcade/)
 
