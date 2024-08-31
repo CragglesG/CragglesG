@@ -2,7 +2,7 @@
 
 I'm Craig, a passionate coder making cool stuff!
 
-🔭 I'm currently working on [ScriptMaker](https://github.com/CragglesG/ScriptMaker)
+🔭 I'm currently working on [CShell](https://github.com/CragglesG/cshell)
 
 🌱 I'm currently learning [Rust](https://rust-lang.org)
 
