@@ -2,11 +2,10 @@
 
 I'm Craig, a passionate coder making cool stuff!
 
-🔭 I'm currently working on [CShell](https://github.com/CragglesG/cshell)
+🔭 I'm currently working on a [custom URL shortener](https://github.com/CragglesG/cshell)
 
 🌱 I'm currently learning [Rust](https://rust-lang.org)
 
-⏰ I'm participating in [Hack Club Arcade](https://hackclub.com/arcade/)
 
 <br>
 
