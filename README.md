@@ -9,12 +9,13 @@ I'm Craig, a passionate coder making cool stuff!
 
 <br>
 
+![CragglesG's Coding Hours Today](https://waka.hackclub.com/api/badge/U07FBU5MM8U/interval:today?label=today)
+![CragglesG's Coding Hours Last 30 Days](https://waka.hackclub.com/api/badge/U07FBU5MM8U/U07FBU5MM8U/interval:30_days?label=last%2030d)
+![CragglesG's Coding Hours All Time](https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U07FBU5MM8U/interval:all_time&label=All%20time&color=blue)
+
 ![CragglesG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CragglesG&show_icons=true&theme=transparent)
 
 ![CragglesG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CragglesG&theme=transparent)
-<br>
-
-_P.S: I know, the stats aren't very impressive_
 
 <!--
 **CragglesG/CragglesG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
