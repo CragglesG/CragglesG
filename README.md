@@ -2,7 +2,7 @@
 
 I'm Craig, a passionate coder making cool stuff!
 
-🔭 I'm currently working on [Hack Starter](https://github.com/CragglesG/hack-starter)
+🔭 I'm currently working on a Q&A sytem for @hackclub
 
 🌱 I'm currently learning [Rust](https://rust-lang.org)
 
