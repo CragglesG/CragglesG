@@ -4,7 +4,7 @@ I'm Craig, a coder making lots of random stuff!
 
 🔭 I'm currently working on a Q&A sytem for @hackclub
 
-🌱 I'm currently (or more accurately, I would like to be) learning [Rust](https://rust-lang.org)
+🌱 I'm currently learning [Rust](https://rust-lang.org)
 
 
 <br>
