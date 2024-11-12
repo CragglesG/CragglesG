@@ -2,7 +2,7 @@
 
 I'm Craig, a coder making lots of random stuff!
 
-🔭 I'm currently working on [CShell](https://github.com/cragglesg/cshell)
+🔭 I'm currently working on [Slack Summarizer](https://github.com/cragglesg/slack-summarizer)
 
 🌱 I'm currently learning [Rust](https://rust-lang.org)
 
