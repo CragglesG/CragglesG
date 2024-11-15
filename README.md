@@ -2,7 +2,7 @@
 
 I'm Craig, a coder making lots of random stuff!
 
-🔭 I'm currently working on [Slack Summarizer](https://github.com/cragglesg/slack-summarizer)
+🔭 I'm currently working on [my Sprig fork](https://github.com/cragglesg/sprig)
 
 🌱 I'm currently learning [Rust](https://rust-lang.org)
 
