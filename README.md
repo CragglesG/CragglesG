@@ -2,7 +2,7 @@
 
 I'm Craig, a coder making lots of random stuff!
 
-🔭 I'm currently working on [Hack RTL](https://github.com/cragglesg/hack-rtl)
+🔭 I'm currently working on [Codeboard](https://github.com/cragglesg/codeboard)
 
 🌱 I'm currently learning [Rust](https://rust-lang.org)
 
