@@ -2,7 +2,7 @@
 
 I'm Craig, a coder making lots of random stuff!
 
-🔭 I'm currently working on [Waveband](https://github.com/CragglesG/waveband)
+🔭 I'm currently working on [Waveband](https://github.com/CragglesG/waveband) and [Pkgman](https://github.com/CragglesG/pkgman)
 
 🌱 I'm currently learning [Rust](https://rust-lang.org)
 
